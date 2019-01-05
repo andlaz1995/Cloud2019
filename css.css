@@ -1,0 +1,27 @@
+h1 { color: #CEF0D4; font-family: 'Rouge Script',cursive; font-size: 120px; font-weight: normal; line-height: 100px; margin: 0 0 50px; text-align: center; text-shadow: 1px 1px 2px #082b34; }
+h2 {font-family: Tahoma, sans-serif;
+    font-size: 50px;
+    text-decoration: underline;
+    color: darkblue;
+    text-align: center;
+}
+
+h3,h4,h5,h6 {font-family: Tahoma, sans-serif;
+    font-size: 50px;
+    font-style: bold;
+    color: darkblue;
+    text-align: center;
+}
+body {
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    font-size: 30px;
+    padding: 3px;
+    background-image: url("image.jpg");
+}
+html, body {
+  position: relative;
+  width: 800px;
+  min-height: 400px;
+  margin: 100px auto;
+}
+
